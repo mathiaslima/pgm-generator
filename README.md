@@ -14,3 +14,5 @@ P2
 * The second line informs the size of the image per pixels. 3 by 3 in this case.
 * The third line is the maximum value that a pixel can have. 10 in this case would represent the most white shade possible and 0 the most black.
 * The rest of the file are the gray values of each pixel. Using matrices in C you can define them easily and form your own images.
+
+# Este projeto não é acessível para pessoas que não sabem inglês -_-
